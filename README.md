@@ -1,6 +1,4 @@
 # Certificate-And-Delivery-Properties-Automation
-Automated the complete lifecycle of Akamai DVSAN certificates and delivery configuration management via infrastructure as code
-
 Automated the complete lifecycle of Akamai DVSAN certificates and delivery configuration management via infrastructure as code:
 
     Certificate Provisioning: Automates CPS enrollment and handles the ACME Domain Control Validation (DCV) challenge by dynamically updating Edge DNS records and verifying the token in CPS.
